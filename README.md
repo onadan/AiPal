@@ -4,7 +4,7 @@ This is an AI chatbot created using Nodejs as backend, Javascript for frontend a
 
 ### Run Locally
 
-- clone the repo: `git clone git@github.com:onadan/chat_gpt_clone.git`
+- clone the repo: `git clone git@github.com:onadan/AiPal.git`
 - then `cd frontend`
 - install all dependencies using:  `npm install`
 - then start the server by running `npm run dev`
